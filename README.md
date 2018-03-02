@@ -1,1 +1,2 @@
 # L4D2_Pugins_MySQL_Player_Data_Record
+注意：数据表编码必须全部为utf8
